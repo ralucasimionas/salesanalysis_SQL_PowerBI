@@ -10,7 +10,7 @@ TOOLS
 - Power BI
 - CSV (raw data)
 
-  PROCESS
+PROCESS
   1. Loaded 4 CSV files into PostgreSQL tables
   2. Merged data into a single, consolidated table
   3. Handled missing values and duplicated
