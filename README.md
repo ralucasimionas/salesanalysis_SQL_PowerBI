@@ -1,5 +1,4 @@
-# PROJECT TITLE
-Sales Data Analysis | PostgreSQL + Power BI
+# Sales Data Analysis | PostgreSQL + Power BI
 
 ## OVERVIEW
 This project analysez sales data across multiple store slocations and product categories. 
